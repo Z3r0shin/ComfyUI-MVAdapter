@@ -4,7 +4,7 @@ diffusers==0.31.0
 transformers==4.46.3
 peft
 numpy>=1.26.2
-huggingface_hub==0.24.6
+huggingface_hub
 accelerate==1.1.1
 opencv-python
 safetensors
@@ -15,3 +15,4 @@ einops
 timm
 kornia
 scikit-image
+huggingface_hub>=25.0.0
